@@ -4,6 +4,10 @@
 
 - <a href="https://ahidaka.github.io/GitHub/">https://ahidaka.github.io/GitHub/</a>
 
+- <a href="https://ahidaka.github.io/WindowsDriverHowto/">https://ahidaka.github.io/WindowsDriverHowto/</a>
+
+- <a href="https://ahidaka.github.io/WindowsDriverTestHowto/">https://ahidaka.github.io/WindowsDriverTestHowto/</a>
+
 - <a href="https://ahidaka.github.io/LinuxDevelopersGuide">https://ahidaka.github.io/LinuxDevelopersGuide</a>
 
 - <a href="https://ahidaka.github.io/Blog">https://ahidaka.github.io/Blog</a>
