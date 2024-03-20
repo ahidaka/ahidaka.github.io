@@ -4,15 +4,15 @@
 
 - <a href="https://ahidaka.github.io/GitHub/">https://ahidaka.github.io/GitHub/</a>
 
-- <a href="https://ahidaka.github.io/WindowsDriverDevelopment">https://ahidaka.github.io/GitHub/WindowsDriverDevelopment</a>
+- <a href="https://ahidaka.github.io/WindowsDriverDevelopment">https://ahidaka.github.io/WindowsDriverDevelopment</a>
 
-- <a href="https://ahidaka.github.io/WindowsAPODevelopmentLinks">https://ahidaka.github.io/GitHub/WindowsAPODevelopmentLinks</a>
+- <a href="https://ahidaka.github.io/WindowsAPODevelopmentLinks">https://ahidaka.github.io/WindowsAPODevelopmentLinks</a>
 
-- <a href="https://ahidaka.github.io/ChatGPTIoTsamples">https://ahidaka.github.io/GitHub/ChatGPTIoTsamples</a>
+- <a href="https://ahidaka.github.io/ChatGPTIoTsamples">https://ahidaka.github.io/ChatGPTIoTsamples</a>
 
-- <a href="https://ahidaka.github.io/WindowsDriverTips">https://ahidaka.github.io/GitHub/WindowsDriverTips</a>
+- <a href="https://ahidaka.github.io/WindowsDriverTips">https://ahidaka.github.io/WindowsDriverTips</a>
 
-- <a href="https://ahidaka.github.io/USBView-docs">https://ahidaka.github.io/GitHub/USBView-docs</a>
+- <a href="https://ahidaka.github.io/USBView-docs">https://ahidaka.github.io/USBView-docs</a>
 
 - <a href="https://ahidaka.github.io/WindowsDriverHowto/">https://ahidaka.github.io/WindowsDriverHowto/</a>
 
